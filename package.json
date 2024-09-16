@@ -2,6 +2,7 @@
   "name": "android-emulator-webrtc",
   "version": "1.0.18",
   "description": "Android Emulator WebRTC module",
+  "types": "emulator/index.d.ts",
   "scripts": {
     "build": "babel src -d dist",
     "test": "jest"
